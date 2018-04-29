@@ -6,8 +6,9 @@ router.get('/', function(req, res) {
       <link rel="stylesheet" type="text/css" href="css/style.css">
       <h1>Welcome</h1>
       <img src="/images/misc/background.jpg" alt="background" style="height: 300px;">
-      <p>Roux Academy Meetups put together artists from all walks of life</p>
-  `);
+      <p>Roux Academy Meetups put to"gether artists from all walks of life</p>
+      <script src="/reload/reload.js"></script>
+      `);
 });
 
 module.exports = router;
